@@ -1,1 +1,2 @@
-This file is used for git workshopSecond line of code added
+This file is used for git workshop
+Second line of code added
