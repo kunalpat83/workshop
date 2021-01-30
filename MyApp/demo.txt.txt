@@ -1,3 +1,0 @@
-This file is used for git workshop
-Second line of code added
-This is third line
